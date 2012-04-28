@@ -66,6 +66,7 @@ public class Main {
 
 
 	/*
+	 * Feel free to uncomment this; it doesn't export properly but should work in your IDE
 	 * try { song = AudioLoader.getAudio("WAV",
 	 * this.getClass().getResourceAsStream("/res/song.wav")); } catch
 	 * (IOException ex) {
